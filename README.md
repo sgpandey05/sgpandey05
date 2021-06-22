@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/shivampandey/shivampandey/master/name.svg" alt="Shivam Pandey" style="max-width:100%;">
-
 Software Enginner at <a href="https://www.acg-world.com
 " rel="nofollow">ACG World</a> <img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" style="max-width:100%;">
 
@@ -32,7 +30,7 @@ Software Enginner at <a href="https://www.acg-world.com
     currentFocus: &quot;Ios Mobile App Development&quot;,
     funFact: &quot;There are two ways to write error-free programs; only the third one works&quot;
 };
-"><pre><span class="pl-k">const</span> <span class="pl-s1">anmol</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
+"><pre><span class="pl-k">const</span> <span class="pl-s1">shivam</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
     <span class="pl-c1">pronouns</span>: <span class="pl-s">"He"</span> <span class="pl-c1">|</span> <span class="pl-s">"Him"</span><span class="pl-kos">,</span>
     <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-s">"Javascript"</span><span class="pl-kos">,</span> <span class="pl-s">"Typescript"</span><span class="pl-kos">,</span> <span class="pl-s">"Python"</span><span class="pl-kos">,</span> <span class="pl-s">"Java"</span><span class="pl-kos">,</span> <span class="pl-s">"php"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
     <span class="pl-c1">askMeAbout</span>: <span class="pl-kos">[</span><span class="pl-s">"web dev"</span><span class="pl-kos">,</span> <span class="pl-s">"tech"</span><span class="pl-kos">,</span> <span class="pl-s">"app dev"</span><span class="pl-kos">,</span> <span class="pl-s">"photography"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
